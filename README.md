@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Rodrigo Balestrin</h1>
 
 - 📚 Student of Systems Analysis and Development at [Universidade Lasalle](https://www.unilasalle.edu.br/canoas).
-- 🌱 I'm currently learning Javascript and Python.
+- 🌱 I'm currently learning ReactJs.
 - 💼 Systems Analysis and Development Trainee.
 - 📍 Canoas - RS
 
@@ -21,12 +21,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img align="center" alt="Bootstrap" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  
+  
   
 </div>
 
