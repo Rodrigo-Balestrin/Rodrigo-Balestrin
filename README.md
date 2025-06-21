@@ -2,8 +2,8 @@
 
 - 📚 Student of Systems Analysis and Development at [Universidade Lasalle](https://www.unilasalle.edu.br/canoas).
 - 🌱 I'm currently learning ReactJs.
-- 👨‍💻 SR Consulting.
-- 💼 Systems Analysis and Development Trainee.
+- 👨‍💻 CIGAM Software de Gestão.
+- 💼 Junior Systems Programmer
 - 📍 Canoas - RS
 
   
